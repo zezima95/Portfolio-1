@@ -1,0 +1,282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"Validation"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"In",
+				"InstructorSchema"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"St",
+				"StudentSchema"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"pass",
+				"password2"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"new",
+				"newStudent"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"mo",
+				"mongoose"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Projects/Kadus/public/stylesheets/style.css",
+		"/C/Users/Asus/Documents/FYP/New folder/elearning/10-E-Learning-System/Lecture 4 - Registering Users/elearn/views/users/register.handlebars",
+		"/D/Projects/Kadus/views/users/register.handlebars",
+		"/D/Projects/Kadus/views/index.handlebars",
+		"/D/Projects/Kadus/views/error.handlebars",
+		"/D/Projects/Kadus/views/partials/login.handlebars",
+		"/D/Projects/Kadus/routes/index.js",
+		"/D/Projects/Kadus/models/class.js",
+		"/D/Projects/Kadus/routes/users.js",
+		"/C/Users/Asus/Documents/FYP/New folder/elearning/10-E-Learning-System/Lecture 4 - Registering Users/elearn/routes/users.js",
+		"/C/Users/Asus/Documents/FYP/New folder/elearning/10-E-Learning-System/Lecture 4 - Registering Users/elearn/models/instructor.js",
+		"/D/Projects/Kadus/views/partials/classes.handlebars",
+		"/D/Projects/Kadus/views/layouts/layout.handlebars",
+		"/D/Projects/Kadus/views/classes/index.handlebars",
+		"/D/Projects/Kadus/views/classes/details.handlebars",
+		"/D/Projects/Kadus/models/user.js",
+		"/D/Projects/Kadus/routes/classes.js",
+		"/D/Projects/Kadus/app.js",
+		"/D/Projects/Kadus/package.json",
+		"/D/Projects/Kadus/models/instructor.js",
+		"/C/Users/Asus/Documents/FYP/New folder/elearning/10-E-Learning-System/Lecture 4 - Registering Users/elearn/models/student.js",
+		"/D/Projects/Kadus/models/student.js",
+		"/C/Users/Asus/Documents/FYP/New folder/elearning/10-E-Learning-System/Lecture 7 - Class Lessons/elearn/routes/instructors.js",
+		"/D/Projects/Kadus/npm-debug.log",
+		"/C/Users/Asus/Documents/FYP/New folder/html kick/HTML-KickStart-master/style.css",
+		"/C/Users/Asus/Documents/My Games/Watch_Dogs 2/WD2_GamerProfile.xml",
+		"/C/Users/Asus/Documents/FYP/New folder/html kick/HTML-KickStart-master/example.html",
+		"/C/Users/Asus/Desktop/New Folder/dw-timeline/templates/header.php",
+		"/C/Users/Asus/Desktop/New Folder/dw-timeline/index.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"%;\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "a.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
